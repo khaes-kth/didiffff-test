@@ -70,7 +70,7 @@ java -jar nod4j-0.2.3-t.jar Time-11-original/ selogger/ ../didiffff/public/asset
 
 rm selogger/ -rf
 
-cd ../Time-11-patched
+cd Time-11-patched
 mvn test -Dtest="org.joda.time.tz.TestCompiler"
 cd ../
 java -jar nod4j-0.2.3-t.jar Time-11-patched/ selogger/ ../didiffff/public/assets/proj2
