@@ -86,4 +86,4 @@ npm run start
 
 ## Step 6
 Check out the results. Go to `http://localhost:3000`
- and open `Time-11/src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java`.
+ and open `Time-11-original/src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java`.
