@@ -24,7 +24,7 @@ npm install
 cd ../didiffff
 npm install
 
-cd didiffff/sample
+cd ../sample
 curl -OL https://github.com/takashi-ishio/selogger/releases/download/v0.2.3/selogger-0.2.3.jar
 cp ../nod4j-0.2.3-t.jar .
 ```
